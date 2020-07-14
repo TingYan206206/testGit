@@ -2,3 +2,4 @@ this is first line
 this is from master line1
 this is from tingyan branch line1
 from tinyan branch add line2
+this is from tingyan branch line2
